@@ -1,0 +1,119 @@
+// // // //THIS CODE ARE OF THE MULTIPLE CONDITION OF AND TYPE😁
+// // // // #include<stdio.h>
+// // // // int main(){
+
+// // // // int number;
+
+// // // // printf("Enter your number:");
+// // // // scanf("%d",&number);
+
+// // // // if(number>99 && number<1000)
+// // // // {
+// // // //     printf("Your number is 3 digit number");
+// // // // }
+// // // // else{
+// // // //     printf("Your number is Not 3 digit number");
+// // // // }
+// // // //     return 0;
+// // // // }
+
+// // // #include<stdio.h>
+// // // int main()
+// // // {
+// // // int n;
+
+// // // printf("Enter your number:");
+// // // scanf("%d",&n);
+
+// // // if(n%2==0 && n%5==0)
+// // // {
+// // //     printf("This number is divide by 2 and 5");
+
+// // // }
+// // // else{
+// // //     printf("Not divisible by 2 and 5");
+// // // }
+
+// // // return 0;
+// // // }
+// // // #include <stdio.h>
+// // // int main()
+// // // {
+// // //     int a, b, c;
+
+// // //     printf("Enter the value of a,b,c is :");
+// // //     scanf("%d %d %d", &a, &b, &c);
+
+// // //     if (a > b && a > c)
+// // //     {
+// // //         printf("A is greatest");
+// // //         if (b > a && b > c)
+// // //         {
+// // //             printf("b is Greatest");
+// // //         }
+// // //     }
+// // //     else
+// // //     {
+// // //         printf("C is greatest");
+// // //     }
+
+// // //     return 0;
+// // // }
+// // //Home work of taking four integers of 4 positive integers which is greatest
+// // #include<stdio.h>
+// // int main()
+// // {
+// // int a,b,c,d;
+
+// // printf("Enter your 1st number :");
+// // scanf("%d",&a);
+
+// // printf("Enter your 2nd number :");
+// // scanf("%d",&b);
+
+// // printf("Enter your 3rd number :");
+// // scanf("%d",&c);
+
+// // printf("Enter your 4th number :");
+// // scanf("%d",&d);
+
+// // if(a>b && a>c && a>d){
+// //     printf("%d is greatest",a);
+// // }
+// // if(b>a && b>c && b>d){
+// //     printf("%d is greatest",b);
+// // }
+// // if(c>a && c>b && c>d){
+// //     printf("%d is greatest",c);
+// // }
+// // else{
+// //     printf("%d is greatest",d);
+// // }
+
+// // return 0;
+// // }
+// //ram shyam wala question hai 
+// #include<stdio.h>
+// int main(){
+// int ram,shyam,ajay;
+
+// printf("Enter the age of ram:");
+// scanf("%d",&ram);
+
+// printf("Enter the age of shyam:");
+// scanf("%d",&shyam);
+
+// printf("Enter the age of ajay:");
+// scanf("%d",&ajay);
+
+// if(ram>shyam && ram>ajay){
+//     printf("Ram is older\n");
+// }
+// if(ajay>shyam && ajay>ram){
+//     printf("Ajay is older\n");
+// }
+// else{
+//     printf("Shyam is older\n");
+// }
+//     return 0;
+// }
